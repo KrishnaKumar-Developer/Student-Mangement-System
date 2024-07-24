@@ -15,9 +15,6 @@ adminx2@gmail.com
 adminx2
 </pre>
 
-<h2> How to Deploy on Heroku </h2> 
-Tutorial Link : <a href="https://youtu.be/n4ly0_S3uGo">https://youtu.be/n4ly0_S3uGo</a>
-
 <br>
 <br>
 <hr>
