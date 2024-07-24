@@ -1,14 +1,6 @@
 # student_management_system_in_django
 student_management_system_in_django
 
-[![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/hackstarsj/student_management_system_part_11/raw/master/LICENSE)
-
-
-<h2>Complete Video Tutorial : <a href="https://www.youtube.com/playlist?list=PLb-NlfexLTk_tUlAPj05s2zc8JgHTVkpH">Link</a></h2>
-
-<p>Use for Personal Use and for Learning Purpose for Commercial Use Please Contact : <a href="mailto:supercoders.tech@gmail.com">supercoders.tech@gmail.com</p>
-
-<a href="http://studentmanagementsystem22.herokuapp.com/">Live Project Link</a>
 <h4>Login</h4>
 <pre>
 adminx2@gmail.com
@@ -16,11 +8,6 @@ adminx2
 </pre>
 
 <br>
-<br>
-<hr>
-
-</tr>
-</table>
 <hr>
 <h2>Installation Steps : </h2>
 
@@ -52,17 +39,7 @@ Run Project python runserver
 </ol>
 </ul>
 <hr>
-<b>For Video Confrencing Using This Library Complete Demo Project : <a href="https://www.rtcmulticonnection.org/">https://www.rtcmulticonnection.org/</a></b>
-<hr>
-<h2>Complete Video Course</h2>
-<div align="center" style="width:100%">
-      <a href="https://www.youtube.com/playlist?list=PLb-NlfexLTk_tUlAPj05s2zc8JgHTVkpH">
-     <img 
-      src="https://img.youtube.com/vi/y3llbdTtam4/maxresdefault.jpg" 
-      alt="Student management System" 
-      style="width:100%;">
-      </a>
-</div>
+
 
 <h2>Database Design</h2>
 
